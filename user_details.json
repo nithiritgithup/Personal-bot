@@ -1,0 +1,50 @@
+{
+    "user1": {
+        "name": "John Doe",
+        "age": "30",
+        "city": "New York",
+        "email": "john.doe@example.com",
+        "contact_number": "123-456-7890",
+        "family_members": "Jane Doe, Jack Doe"
+    },
+    "user2": {
+        "name": "Alice Smith",
+        "age": "25",
+        "city": "Los Angeles",
+        "email": "alice.smith@example.com",
+        "contact_number": "987-654-3210",
+        "family_members": "Bob Smith"
+    },
+    "nith123": {
+        "name": "Nithyananthan",
+        "age": "22",
+        "city": "Perundurai",
+        "email": "nithyananthannagarajan092@gmail.com",
+        "contact_number": "6385576354",
+        "family_members": "Nagarajan,Kavitha,swetha"
+    },
+    "swetha": {
+        "name": "Swetha",
+        "age": "21",
+        "city": "peru",
+        "email": "djfu",
+        "contact_number": "456",
+        "mother_name": "er",
+        "father_name": "er",
+        "siblings": "swetah ,Branitharan",
+        "school": "bkn hr sec school",
+        "college": "er"
+    },
+    "sweth": {
+        "name": "swetha",
+        "age": "22",
+        "city": "f",
+        "email": "r",
+        "contact_number": "t",
+        "mother_name": "r",
+        "father_name": "e",
+        "siblings": "e",
+        "school": "e",
+        "college": "e"
+    }
+}
