@@ -1,6 +1,4 @@
-Here's a description for a personal bot project that you can use for your Git repository:
 
----
 
 ## Personal Bot
 
@@ -60,6 +58,3 @@ Contributions are welcome! Please open an issue or submit a pull request with im
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to tailor the description to better fit the specific features and functionalities of your personal bot.
