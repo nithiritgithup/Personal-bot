@@ -19,7 +19,7 @@ The Personal Bot is an intelligent assistant designed to automate tasks, provide
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/personal-bot.git
+   git clone https://github.com/nithiritgithup/personal-bot.git
    cd personal-bot
    ```
 
